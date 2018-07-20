@@ -1,0 +1,30 @@
+{
+  "name": "evalog",
+  "version": "0.1.0",
+  "description": "Predicate evaluation based logging",
+  "main": "evalog.min.js",
+  "scripts": {
+    "test": "jasmine"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/thght/evalog"
+  },
+  "keywords": [
+    "predicate",
+    "evaluate",
+    "log"
+  ],
+  "author": "Dennis Raymondo <thght4all@gmail.com> (https://github.com/thght/)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/thght/evalog/issues"
+  },
+  "homepage": "https://github.com/thght/evalog",
+  "devDependencies": {
+    "jasmine": "^3.1.0"
+  },
+  "dependencies": {
+    "types.js": "^1.8.0"
+  }
+}
